@@ -263,7 +263,7 @@ body {
   }
   
 }
-@media (max-width: 768px) {
+@media (max-width: 601px) and (max-width: 990px) {
   .cv {
     width: 100%;
     padding: 10px;
