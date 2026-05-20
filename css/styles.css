@@ -23,7 +23,7 @@
   --fw-medium: 500;
   --fw-bold: 700;
 
-  @media (max-width: 375px) {
+  @media (max-width: 393px) {
     --text-h1: 1.2rem;
     --text-h2: .8rem;
     --text-body: 0.8rem;
@@ -204,7 +204,7 @@ body {
 }
 
 /*--- REPONSIVE MOVIL & TABLET  ---*/
-@media (max-width: 375px) {
+@media (max-width: 393px) {
   .cv {
     width: 100%;
     height: auto;
